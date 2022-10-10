@@ -1,0 +1,6 @@
+npx create-react-app ./
+npm i @alan-ai/alan-sdk-web @material-ui/core classnames words-to-numbers --force
+npm start
+
+Alan AI key: 'fe2e0d3788428b9bd7c17d381d0cf2be2e956eca572e1d8b807a3e2338fdd0dc/stage'
+Your News API key is: 3e4fc8f113534c7d8b6e608132314081
